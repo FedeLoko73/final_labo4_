@@ -1,0 +1,9 @@
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_Labo4_pugno\Final_Labo4_pugno\bin\Final_Labo4_pugno.dll
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_Labo4_pugno\Final_Labo4_pugno\bin\Final_Labo4_pugno.pdb
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_Labo4_pugno\Final_Labo4_pugno\bin\Final_Labo4_pugno.xml
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_Labo4_pugno\Final_Labo4_pugno\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_Labo4_pugno\Final_Labo4_pugno\obj\Debug\Final_Labo4_pugno.Resources.resources
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_Labo4_pugno\Final_Labo4_pugno\obj\Debug\Final_Labo4_pugno.vbproj.GenerateResource.Cache
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_Labo4_pugno\Final_Labo4_pugno\obj\Debug\Final_Labo4_pugno.dll
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_Labo4_pugno\Final_Labo4_pugno\obj\Debug\Final_Labo4_pugno.xml
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_Labo4_pugno\Final_Labo4_pugno\obj\Debug\Final_Labo4_pugno.pdb
